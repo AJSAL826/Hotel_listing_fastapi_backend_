@@ -1,0 +1,40 @@
+CREATE DATA
+{
+  "name": "string",
+  "occupancy": 0,
+  "bathroom_count": 0,
+  "city": "string",
+  "state": "string",
+  "country": "string",
+  "pin": "string",
+  "contact_number": 0,
+  "rate_per_day": 0
+}
+
+
+Get DATA
+{
+  "name": "string",
+  "city": "string",
+  "rate_min": 0,
+  "rate_max": 0,
+  "occupancy": 0
+}
+
+
+
+UpDATE DATA
+
+{
+  "name": "string",
+  "occupancy": 0,
+  "bathroom_count": 0,
+  "city": "string",
+  "state": "string",
+  "country": "string",
+  "pin": "string",
+  "contact_number": "string",
+  "rate_per_day": 0
+}
+
+
